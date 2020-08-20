@@ -41,7 +41,8 @@ deploy.sh
 .git 
 .DS_Store
 .vuepress/dist
- 
+docs/.vuepress/dist/
+
 # Typescript v1 declaration files
 typings/
  
