@@ -1,25 +1,25 @@
 ---
 home: true
-heroImage: /hero.png
-heroText: Hero 标题
-tagline: Hero 副标题
-actionText: 快速上手 →
+heroImage: /images/logo.png
+heroText: AR.js
+tagline: 网页增强现实框架
+actionText: v 3.2.1 →
 actionLink: /routes/
 meta:
   - name: description
-    content: 模板
+    content: AR.js 是 Web 端增强现实的轻量级框架，具有图像追踪、基于位置的 AR 和标记跟踪等功能。
   - name: keywords
-    content: 关键词, 关键词
+    content: AR.js, 增强现实, Web AR, jsartoolkit5, three.js, A-Frame
   - name: feversion
-    content: 版本号
+    content: v 3.2.1
   - name: fetags
-    content: "[{'kind': 'node'}, {'kind':'js', 'text': 'js'}]"
+    content: "[{'kind': 'iconhtml', 'text': 'Web'}, {'kind':'iconAR', 'text': 'AR'}]"
 features:
-  - title: 简洁至上
-    details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-  - title: Vue驱动
-    details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-  - title: 高性能
-    details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
-footer: MIT Licensed | Translated By 大笑
+  - title: 性能好
+    details: 在手机上运行如丝般顺滑。
+  - title: 基于 Web
+    details: 纯粹的 web 解决方案，因此无需安装。由 Three.js + A-Frame + jsartoolkit5 组成。
+  - title: 开源且标准化
+    details: 它完全开源免费且适用于任何使用 webgl 和 webrtc 的手机。
+footer: MIT Licensed | Developed By jeromeetienne | Translated By 大笑
 ---
