@@ -91,7 +91,7 @@ node app.js -i <path-to-the-img/image-name.jpg/png>
       smoothTolerance=".01"
       smoothThreshold="5"
     >
-        <!-- 作为 a-nft 的子元素，您可以鼎医药显示的内容。下面是一个 GLTF 模型实体 -->
+        <!-- 作为 a-nft 的子元素，您可以定义要显示的内容。下面是一个 GLTF 模型实体 -->
         <a-entity
             gltf-model="<path-to-your-model>"
             scale="5 5 5"
