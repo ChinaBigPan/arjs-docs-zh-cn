@@ -1,7 +1,7 @@
 {
-  "name": "vuepress-template",
-  "version": "1.0.0",
-  "description": "",
+  "name": "arjs-docs-zn-cn",
+  "version": "3.2.1",
+  "description": "AR.js 是 Web 端增强现实的轻量级框架，具有图像追踪、基于位置的 AR 和标记跟踪等功能。",
   "main": "index.js",
   "author": "大笑 <daguogxp@qq.com>",
   "scripts": {

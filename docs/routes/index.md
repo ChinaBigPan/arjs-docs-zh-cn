@@ -2,6 +2,8 @@
 title: 首页
 ---
 
+<febeacon />
+
 ## Web AR 意味着什么?
 
 [英文原地址](https://ar-js-org.github.io/AR.js-Docs/)
